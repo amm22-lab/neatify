@@ -18,7 +18,7 @@ The script scans your Downloads directory, identifies the suffix (extension) of 
 ## ⚙️ Installation & Usage
 Clone the repo:
 ```
-git clone github.com
+git clone git@github.com:amm22-lab/neatify.git
 cd neatify
 python3 neatify.py
 ```
