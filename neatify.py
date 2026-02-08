@@ -8,7 +8,8 @@ def organize_downloads():
         "Documents": [".pdf", ".docx", ".txt", ".pptx", ".csv", ".xlsx"],
         "Videos": [".mp4", ".mov", ".avi", ".mkv"],
         "Archives": [".zip", ".rar", ".7z"],
-        "Executables": [".exe", ".dmg", ".msi"]
+        "Executables": [".exe", ".dmg", ".msi", ".iso", ".pkg"],
+        "Icons": [".icns"]
     }
 
     for folder in files_categories:
