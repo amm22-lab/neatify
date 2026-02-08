@@ -9,6 +9,7 @@ def organize_downloads():
         "Videos": [".mp4", ".mov", ".avi", ".mkv"],
         "Archives": [".zip", ".rar", ".7z"],
         "Executables": [".exe", ".dmg", ".msi", ".iso", ".pkg"],
+        "Songs": [".mp3", ".mp4"],
         "Icons": [".icns"]
     }
 
